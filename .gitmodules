@@ -1,0 +1,3 @@
+[submodule "TrackedProject"]
+	path = TrackedProject
+	url = https://github.com/bilgeryahov/TrackedProject.git
